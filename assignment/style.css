@@ -3,6 +3,16 @@ header {
 }
 
 div h2 {
-    background-color: aqua
+    background-color: aqua;
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
 
+div h3 {
+    background-color: goldenrod;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    float: left;
+    border-style: dotted;
+    
 }
