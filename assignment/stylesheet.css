@@ -6,3 +6,13 @@ header {
 h2 {
     background-color: darkturquoise;
 }
+img {
+    size: 200px;
+
+}
+
+h3 {
+    background-color: aquamarine;
+    color: darkblue;
+    text-align: center;
+}
